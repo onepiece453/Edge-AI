@@ -1,2 +1,3 @@
-# Edge-AI
-The program is here to hand in the Edge AI 
+# Edge-AI学习笔记 #
+2025090905005 陈旭彬
+仓库中包含了了md源文件和最终输出的pdf文稿
